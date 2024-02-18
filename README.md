@@ -1,2 +1,4 @@
-# leaf_disease_detection
-LINK TO DATASET-https://www.kaggle.com/emmarex/plantdisease
+leaf_disease_detection project
+
+
+Use this command to download the data_set file.
